@@ -1,0 +1,36 @@
+{
+  "name": "chi-square-nearest-neighbor",
+  "version": "1.0.0",
+  "description": "nearest neighbor using chi-square distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nickpoorman/chi-square-nearest-neighbor.git"
+  },
+  "author": "Nick Poorman",
+  "bugs": {
+    "url": "https://github.com/nickpoorman/chi-square-nearest-neighbor/issues"
+  },
+  "homepage": "https://github.com/nickpoorman/chi-square-nearest-neighbor",
+  "dependencies": {
+    "debug": "^2.1.0",
+    "lodash": "^2.4.1",
+    "simple-statistics": "tmcw/simple-statistics"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.4.2"
+  },
+  "keywords": [
+    "chi-square",
+    "chi",
+    "square",
+    "nearest-neighbor",
+    "nearest",
+    "neighbor"
+  ],
+  "license": "MIT"
+}
