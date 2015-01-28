@@ -2,11 +2,11 @@
 
 Nearest neighbor using chi-square distance.
 
-
+[![wercker status](https://app.wercker.com/status/edcb7f6c41dbf2620a98bcfe7d7e1073/s "wercker status")](https://app.wercker.com/project/bykey/edcb7f6c41dbf2620a98bcfe7d7e1073)
 
 This is a chi-square implementation for nearest neighbor. More information can be found [here](http://www.econ.upf.edu/~michael/stanford/maeb4.pdf).
 
-*"The chi-square distance is special because it is at the heart of correspondence analysis, extensively used in ecological research. The first premise of this distance function is that it is calculated on relative counts, and not on the original ones, and the second is that it standardizes by the mean and not by the variance."* [Ref](http://www.econ.upf.edu/~michael/stanford/maeb4.pdf)
+*"The chi-square distance is special because it is at the heart of correspondence analysis, extensively used in ecological research. The first premise of this distance function is that it is calculated on relative counts, and not on the original ones, and the second is that it standardizes by the mean and not by the variance."* [[1]](http://www.econ.upf.edu/~michael/stanford/maeb4.pdf)
 
 # methods
 ```javascript
